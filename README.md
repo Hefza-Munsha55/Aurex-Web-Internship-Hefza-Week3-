@@ -4,7 +4,7 @@
 **Week:** 3 - Interactive & Animated Modern Web Application
 
 ### Live Demo
-**Live Link:** https://hefza-munsha55.github.io/Aurex-Web-Internship-Hefza-Week3-/
+**Live Link:**  https://hefza-munsha55.github.io/Aurex-Web-Internship-Hefza-Week3-/
 **GitHub Repo:** https://github.com/Hefza-Munsha55/Aurex-Web-Internship-Hefza-Week3-
 
 ### Project Overview
